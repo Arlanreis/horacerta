@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    max-width: 80%;
+    background: rgb(118, 118, 197);
+    
+}
+
+h1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    background: wheat;
+    padding: 30px;
+    border-radius: 30px;
+    
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+img{
+    
+    border-radius: 0%;
+    width: 190px;
+    height: 150px;
+    
+    
+}
+footer{
+    text-align: center;
+    font-size: large;
+    padding: 100px;
+    color: white;
+}
+
